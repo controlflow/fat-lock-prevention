@@ -4,5 +4,7 @@
     <Nullable>enable</Nullable>
     <TargetFrameworks>net8.0;net471</TargetFrameworks>
     <LangVersion>12</LangVersion>
+    <OutputType>Exe</OutputType>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
   </PropertyGroup>
 </Project>

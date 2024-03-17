@@ -2,6 +2,8 @@
 Microsoft Visual Studio Solution File, Format Version 12.00
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatLockPrevention", "FatLockPrevention\FatLockPrevention.csproj", "{0FD4B5DC-FA57-45C5-839C-08AEE54592B0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FatLockPrevention.Benchmarks", "FatLockPrevention.Benchmarks\FatLockPrevention.Benchmarks.csproj", "{B6E0E7E9-78C5-4908-9BA4-111CB154114E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -12,5 +14,9 @@ Global
 		{0FD4B5DC-FA57-45C5-839C-08AEE54592B0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0FD4B5DC-FA57-45C5-839C-08AEE54592B0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0FD4B5DC-FA57-45C5-839C-08AEE54592B0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6E0E7E9-78C5-4908-9BA4-111CB154114E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6E0E7E9-78C5-4908-9BA4-111CB154114E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6E0E7E9-78C5-4908-9BA4-111CB154114E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6E0E7E9-78C5-4908-9BA4-111CB154114E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
